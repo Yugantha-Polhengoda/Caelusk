@@ -1,0 +1,81 @@
+
+---Downloaded files---
+The import files for: Hamburger Menu were successfully downloaded!
+Initial max execution time = 480
+Files info:
+Site URL = https://wpriverthemes.com/aixor
+Data file = /home/u111410293/domains/wpriverthemes.com/public_html/aixor/wp-content/themes/aixor/demo-import/data.xml
+Widget file = /home/u111410293/domains/wpriverthemes.com/public_html/aixor/wp-content/themes/aixor/demo-import/widget.wie
+Customizer file = /home/u111410293/domains/wpriverthemes.com/public_html/aixor/wp-content/themes/aixor/demo-import/custom.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

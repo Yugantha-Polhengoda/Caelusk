@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Hamburger Menu were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/aixor
+Data file = /Applications/MAMP/htdocs/aixor/wp-content/themes/aixor/demo-import/data.xml
+Widget file = /Applications/MAMP/htdocs/aixor/wp-content/themes/aixor/demo-import/widget.wie
+Customizer file = /Applications/MAMP/htdocs/aixor/wp-content/themes/aixor/demo-import/custom.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+footer_widget_area_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Block - No Title - Imported to Inactive
+Block - No Title - Imported to Inactive
+Block - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

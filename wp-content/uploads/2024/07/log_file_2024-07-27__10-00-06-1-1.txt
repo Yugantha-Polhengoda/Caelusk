@@ -1,0 +1,34 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 480
+Files info:
+Site URL = https://wpriverthemes.com/aixor
+Data file = /home/u111410293/domains/wpriverthemes.com/public_html/aixor/wp-content/themes/aixor/demo-import/content.xml
+Widget file = /home/u111410293/domains/wpriverthemes.com/public_html/aixor/wp-content/themes/aixor/demo-import/widgets.wie
+Customizer file = /home/u111410293/domains/wpriverthemes.com/public_html/aixor/wp-content/themes/aixor/demo-import/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widget Area 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
