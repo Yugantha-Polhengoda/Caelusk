@@ -1,4 +1,4 @@
-[Tue, 19 Nov 2024 11:18:20 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:28:07 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -31,7 +31,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:18:20 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:28:11 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -64,7 +64,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:18:30 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:28:11 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -97,7 +97,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:18:46 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:28:12 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -130,7 +130,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:19:01 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:28:27 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -163,7 +163,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:19:10 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:30:28 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -196,7 +196,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:19:16 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:32:29 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -229,7 +229,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:19:20 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:34:30 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -262,7 +262,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:19:31 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:36:31 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -295,7 +295,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:19:42 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:38:32 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -328,7 +328,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:19:46 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:40:33 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -361,7 +361,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:20:04 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:42:34 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -394,7 +394,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:22:05 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:44:35 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -427,7 +427,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:24:06 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:46:36 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -460,7 +460,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:24:21 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:48:37 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -493,7 +493,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:25:22 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:50:38 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -526,7 +526,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:26:22 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:52:39 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -559,7 +559,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:28:23 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:54:40 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -592,7 +592,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:30:24 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:55:41 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -625,7 +625,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:32:25 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:55:56 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -658,7 +658,7 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:34:26 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:56:12 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
@@ -691,7 +691,40 @@ array (
   'filesystem_initialized' => false,
 )
 
-[Tue, 19 Nov 2024 11:36:27 +0000] wpr: __construct
+[Wed, 20 Nov 2024 03:56:53 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\wamp64\\www\\wordpress\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/wordpress/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\wamp64\\www\\wordpress\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/wordpress/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Wed, 20 Nov 2024 03:57:08 +0000] wpr: __construct
 array (
   'prefix' => 'wpr',
   'licensing_servers' => 
